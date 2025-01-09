@@ -11,7 +11,7 @@ export default function Introduction(){
                         Komputer Akuntansi
                     </p>
                         <h2 className="text-[#3D3D3D] text-7xl">
-                            Hello, i'm
+                            Hello, im
                         </h2>
                         <h2 className="text-[#578E7E] text-7xl">
                             Rein Hard Cavin Bawimbang
